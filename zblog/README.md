@@ -8,15 +8,13 @@ by : 百度
 
 ### Manual method
 - clone zblog application from github page or download compressed installation file from zblog official website
-`
+```
 git clone https://github.com/zblogcn/zblogphp.git zblog_dir
-
 # if using compressed installation file
-wget https://www.zblogcn.com/program/zblogphp17/
-# unzip the file
-
+mkdir zblog_dir && cd zblog_dir && wget https://www.zblogcn.com/program/zblogphp17/
+# unzip the file and dont forget to delete or remove downloaded zblog instalation file
 `
-
+```
 - setup domain for pointing to zblog instalation folder `zblog_dir`
 
 - setup pseudo static and point root url to pointing root folder (inside the `zblog_dir/`)
