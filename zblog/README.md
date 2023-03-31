@@ -11,9 +11,9 @@ by : 百度
 `
 git clone https://github.com/zblogcn/zblogphp.git zblog_dir
 
-// if using compressed installation file
+# if using compressed installation file
 wget https://www.zblogcn.com/program/zblogphp17/
-// unzip the file
+# unzip the file
 
 `
 
