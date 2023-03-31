@@ -31,6 +31,10 @@ if (!-f $request_filename){
 ```
 - access domain with domain / IP registered then continue instalation guide from documentation.
 
+<mark >
+Note: sometimes clone directly from github can end up with error thema not found because source code on github didn't provide any theme. installing it over internet can causing installation not finish.
+</mark>  
+
 ### Automatic method
 
 - makesure we already have domain.
