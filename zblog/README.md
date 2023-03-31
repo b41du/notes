@@ -7,9 +7,14 @@ by : 百度
 ## Zblog instalation
 
 ### Manual method
-- clone zblog application from github page
+- clone zblog application from github page or download compressed installation file from zblog official website
 `
 git clone https://github.com/zblogcn/zblogphp.git zblog_dir
+
+// if using compressed installation file
+wget https://www.zblogcn.com/program/zblogphp17/
+// unzip the file
+
 `
 
 - setup domain for pointing to zblog instalation folder `zblog_dir`
